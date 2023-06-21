@@ -24,8 +24,5 @@ func main() {
 		log.Fatal("Second value is not valid.")
 	}
 
-	var result int = x + y
-
-	fmt.Println("The result is", result)
-
+	fmt.Printf("The result is %d\n", x+y)
 }
