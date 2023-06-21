@@ -1,0 +1,1 @@
+A module that adds two numbers provided via arguments.
